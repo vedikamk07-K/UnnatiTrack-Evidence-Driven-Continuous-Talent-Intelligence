@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment: { POSTGRES_USER: unnati, POSTGRES_PASSWORD: unnati, POSTGRES_DB: unnatitrack }
+    ports: ["5432:5432"]
+    healthcheck: { test: ["CMD", "pg_isready", "-U", "unnati"], interval: 3s, retries: 10 }
+  api:
+    build: ./backend
+    environment:
+      DATABASE_URL: postgresql://unnati:unnati@db:5432/unnatitrack
+      JWT_SECRET: local-dev-secret-change-me-0123456789
+      ALLOWED_ORIGINS: http://localhost:5173
+    ports: ["8000:8000"]
+    depends_on: { db: { condition: service_healthy } }
