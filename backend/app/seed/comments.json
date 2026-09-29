@@ -1,0 +1,65 @@
+[
+  {
+    "id": "c1",
+    "employeeId": "sneha-deshmukh",
+    "visibility": "employee",
+    "author": "Neha Menon · HR",
+    "date": "2026-09-22",
+    "competencyId": null,
+    "text": "Your technical skills have improved consistently over the last three assessment cycles. Communication is currently stable. More team-based project experience may help."
+  },
+  {
+    "id": "c2",
+    "employeeId": "sneha-deshmukh",
+    "visibility": "employee",
+    "author": "Neha Menon · HR",
+    "date": "2026-09-24",
+    "competencyId": "leadership",
+    "text": "Your manager rates your leadership highly, but your peers see it differently. A short project where you lead the squad will help us understand this properly — it is not a judgement either way."
+  },
+  {
+    "id": "n1",
+    "employeeId": "sneha-deshmukh",
+    "visibility": "private",
+    "author": "Neha Menon · HR",
+    "date": "2026-09-24",
+    "competencyId": "leadership",
+    "text": "Private: check with Sunita whether the Insights squad reorg in August is behind the peer scores before the next 1:1."
+  },
+  {
+    "id": "c3",
+    "employeeId": "aarav-sharma",
+    "visibility": "employee",
+    "author": "Neha Menon · HR",
+    "date": "2026-09-20",
+    "competencyId": null,
+    "text": "Great quarter — API Design and System Design are both trending up with high confidence. Cloud Security has too little evidence to judge yet; the threat-model task will fix that."
+  },
+  {
+    "id": "n2",
+    "employeeId": "aarav-sharma",
+    "visibility": "private",
+    "author": "Neha Menon · HR",
+    "date": "2026-09-20",
+    "competencyId": null,
+    "text": "Private: shortlist for the Platform tech-lead track in Q1."
+  },
+  {
+    "id": "c4",
+    "employeeId": "priya-mehta",
+    "visibility": "employee",
+    "author": "Neha Menon · HR",
+    "date": "2026-09-25",
+    "competencyId": "accessibility",
+    "text": "We only have indirect KPI signals for Accessibility, so we are not drawing any conclusion yet. The WCAG audit will give us direct evidence."
+  },
+  {
+    "id": "c5",
+    "employeeId": "rahul-jadhav",
+    "visibility": "employee",
+    "author": "Neha Menon · HR",
+    "date": "2026-09-28",
+    "competencyId": "test_automation",
+    "text": "The fixtures migration was completed, but Test Automation evidence did not move. Let’s try a different action next cycle rather than repeat the same one."
+  }
+]

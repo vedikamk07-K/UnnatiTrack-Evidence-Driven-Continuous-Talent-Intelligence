@@ -1,0 +1,2745 @@
+{
+  "resume": {
+    "parsed": {
+      "matches": [
+        {
+          "competencyId": "python",
+          "label": "Python",
+          "mentions": 8,
+          "applied": 2,
+          "value": 80,
+          "snippet": "Backend engineer with 6+ years of experience building Python and API platforms for fintech teams",
+          "tracked": true
+        },
+        {
+          "competencyId": "api_design",
+          "label": "API Design",
+          "mentions": 6,
+          "applied": 2,
+          "value": 80,
+          "snippet": "Backend engineer with 6+ years of experience building Python and API platforms for fintech teams",
+          "tracked": true
+        },
+        {
+          "competencyId": "system_design",
+          "label": "System Design",
+          "mentions": 5,
+          "applied": 1,
+          "value": 75,
+          "snippet": "Architected an event-driven microservices architecture for settlement",
+          "tracked": false
+        },
+        {
+          "competencyId": "test_automation",
+          "label": "Test Automation",
+          "mentions": 4,
+          "applied": 1,
+          "value": 75,
+          "snippet": "Automated regression suites with pytest and Playwright",
+          "tracked": false
+        },
+        {
+          "competencyId": "communication",
+          "label": "Communication",
+          "mentions": 3,
+          "applied": 0,
+          "value": 65,
+          "snippet": "presented the design to stakeholders",
+          "tracked": true
+        },
+        {
+          "competencyId": "data_storytelling",
+          "label": "Data Storytelling",
+          "mentions": 2,
+          "applied": 1,
+          "value": 65,
+          "snippet": "created Tableau dashboards for the operations team",
+          "tracked": false
+        },
+        {
+          "competencyId": "mentoring",
+          "label": "Technical Mentoring",
+          "mentions": 2,
+          "applied": 1,
+          "value": 65,
+          "snippet": "Mentored 3 junior developers through onboarding and weekly code reviews",
+          "tracked": false
+        },
+        {
+          "competencyId": "teamwork",
+          "label": "Teamwork",
+          "mentions": 2,
+          "applied": 0,
+          "value": 60,
+          "snippet": "Collaborated with cross-functional product and design teams",
+          "tracked": false
+        },
+        {
+          "competencyId": "technical",
+          "label": "Technical Skills",
+          "mentions": 2,
+          "applied": 0,
+          "value": 60,
+          "snippet": "Backend engineer with 6+ years of experience building Python and API platforms for fintech teams",
+          "tracked": false
+        },
+        {
+          "competencyId": "leadership",
+          "label": "Leadership",
+          "mentions": 1,
+          "applied": 1,
+          "value": 60,
+          "snippet": "Led a team of 4 engineers to rebuild the payments API in Python and FastAPI",
+          "tracked": true
+        },
+        {
+          "competencyId": "problem_solving",
+          "label": "Problem Solving",
+          "mentions": 1,
+          "applied": 0,
+          "value": 55,
+          "snippet": "root cause analysis for production incidents",
+          "tracked": false
+        },
+        {
+          "competencyId": "stakeholder",
+          "label": "Stakeholder Management",
+          "mentions": 1,
+          "applied": 0,
+          "value": 55,
+          "snippet": "presented the design to stakeholders",
+          "tracked": false
+        }
+      ],
+      "years": 6,
+      "email": "ananya.iyer@vidyut.in",
+      "name": "Ananya Iyer",
+      "chars": 1173
+    },
+    "claim": [
+      {
+        "id": "r0",
+        "value": 65,
+        "note": "Mentioned 2×, applied in 1 statement — “Led a team of 5 to launch the onboarding dashboard”"
+      }
+    ],
+    "withClaim": {
+      "score": 63,
+      "state": "conflicting",
+      "confidence": 0.52,
+      "evidenceCount": 17,
+      "claim": {
+        "value": 65,
+        "date": "2026-09-29",
+        "id": "r0",
+        "note": "Mentioned 2×, applied in 1 statement — “Led a team of 5 to launch the onboarding dashboard”"
+      }
+    }
+  },
+  "summary": {
+    "total": 156,
+    "improvingPct": 68,
+    "evidenceGaps": 17,
+    "counts": {
+      "improving": 106,
+      "stagnating": 24,
+      "declining": 13,
+      "insufficient": 8,
+      "conflicting": 5
+    }
+  },
+  "competencies": [
+    {
+      "employeeId": "aarav-sharma",
+      "competencyId": "api_design",
+      "state": "improving",
+      "score": 87,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        70,
+        75.8,
+        80.5,
+        88.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "aarav-sharma",
+      "competencyId": "system_design",
+      "state": "improving",
+      "score": 71,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        50.4,
+        58.7,
+        65.8,
+        72.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "aarav-sharma",
+      "competencyId": "cloud_security",
+      "state": "insufficient",
+      "score": null,
+      "confidence": 0.13,
+      "label": "LOW",
+      "trajectory": [
+        null,
+        67.5,
+        null,
+        null
+      ],
+      "gaps": [
+        "no_recent_evidence"
+      ],
+      "missing": [
+        "assessment",
+        "project"
+      ]
+    },
+    {
+      "employeeId": "aarav-sharma",
+      "competencyId": "mentoring",
+      "state": "stagnating",
+      "score": 75,
+      "confidence": 0.92,
+      "label": "HIGH",
+      "trajectory": [
+        73.7,
+        75.3,
+        72.5,
+        75.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "aarav-sharma",
+      "competencyId": "python",
+      "state": "improving",
+      "score": 86,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        65.5,
+        73.6,
+        80.8,
+        87.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "aarav-sharma",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 74,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        59.4,
+        63.6,
+        68.8,
+        75
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "aarav-sharma",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 84,
+      "confidence": 0.94,
+      "label": "HIGH",
+      "trajectory": [
+        66.3,
+        73.4,
+        78.8,
+        85
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "aarav-sharma",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 81,
+      "confidence": 0.94,
+      "label": "HIGH",
+      "trajectory": [
+        63.8,
+        69,
+        75,
+        82.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "riya-patil",
+      "competencyId": "leadership",
+      "state": "improving",
+      "score": 84,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        70,
+        75,
+        80.7,
+        85
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "riya-patil",
+      "competencyId": "python",
+      "state": "stagnating",
+      "score": 44,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        44,
+        45.4,
+        43.2,
+        44.5
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "riya-patil",
+      "competencyId": "stakeholder",
+      "state": "improving",
+      "score": 88,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        70,
+        77.4,
+        84.9,
+        89.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "riya-patil",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 78,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        62.5,
+        67.4,
+        72.5,
+        79.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "riya-patil",
+      "competencyId": "data_storytelling",
+      "state": "improving",
+      "score": 71,
+      "confidence": 0.94,
+      "label": "HIGH",
+      "trajectory": [
+        56.3,
+        61.1,
+        67.5,
+        72.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "riya-patil",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 77,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        57.5,
+        63.9,
+        70,
+        78.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "riya-patil",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 81,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        64.6,
+        71,
+        76.9,
+        82.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "aditya-kulkarni",
+      "competencyId": "system_design",
+      "state": "declining",
+      "score": 63,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        82.3,
+        75,
+        67.3,
+        61
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "aditya-kulkarni",
+      "competencyId": "api_design",
+      "state": "improving",
+      "score": 83,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        65.8,
+        73.1,
+        78.6,
+        85
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "aditya-kulkarni",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 85,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        64.5,
+        72.2,
+        79,
+        86.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "aditya-kulkarni",
+      "competencyId": "python",
+      "state": "improving",
+      "score": 77,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        63.7,
+        69.1,
+        72.3,
+        78.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "aditya-kulkarni",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 75,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        56.9,
+        63.2,
+        70,
+        75.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "aditya-kulkarni",
+      "competencyId": "teamwork",
+      "state": "stagnating",
+      "score": 65,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        62.5,
+        65.9,
+        63.5,
+        64.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "sneha-deshmukh",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 72,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        56.6,
+        62.2,
+        67.2,
+        73.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "sneha-deshmukh",
+      "competencyId": "communication",
+      "state": "stagnating",
+      "score": 67,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        65,
+        65.8,
+        65,
+        67.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "sneha-deshmukh",
+      "competencyId": "leadership",
+      "state": "conflicting",
+      "score": 62,
+      "confidence": 0.52,
+      "label": "LOW–MEDIUM",
+      "trajectory": [
+        65.5,
+        63.7,
+        67.1,
+        61.2
+      ],
+      "gaps": [
+        "conflicting_sources",
+        "missing_source"
+      ],
+      "missing": [
+        "project"
+      ]
+    },
+    {
+      "employeeId": "sneha-deshmukh",
+      "competencyId": "problem_solving",
+      "state": "insufficient",
+      "score": null,
+      "confidence": 0.13,
+      "label": "LOW",
+      "trajectory": [
+        null,
+        59,
+        null,
+        null
+      ],
+      "gaps": [
+        "no_recent_evidence"
+      ],
+      "missing": [
+        "assessment",
+        "project"
+      ]
+    },
+    {
+      "employeeId": "sneha-deshmukh",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 72,
+      "confidence": 0.94,
+      "label": "HIGH",
+      "trajectory": [
+        53.7,
+        60,
+        66.3,
+        73.5
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "sneha-deshmukh",
+      "competencyId": "data_storytelling",
+      "state": "improving",
+      "score": 82,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        62.5,
+        70.9,
+        77.6,
+        84
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "sneha-deshmukh",
+      "competencyId": "stakeholder",
+      "state": "stagnating",
+      "score": 64,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        61.3,
+        62.6,
+        62.5,
+        63.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "rahul-jadhav",
+      "competencyId": "test_automation",
+      "state": "stagnating",
+      "score": 62,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        61.8,
+        63.1,
+        64.1,
+        61.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "rahul-jadhav",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 84,
+      "confidence": 1,
+      "label": "HIGH",
+      "trajectory": [
+        65,
+        71.8,
+        78.5,
+        85
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "rahul-jadhav",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 84,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        70,
+        75,
+        80.2,
+        84.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "rahul-jadhav",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 82,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        66.3,
+        71.1,
+        77.6,
+        83.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "rahul-jadhav",
+      "competencyId": "problem_solving",
+      "state": "declining",
+      "score": 60,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        75,
+        70.4,
+        64.6,
+        59.1
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "rahul-jadhav",
+      "competencyId": "accessibility",
+      "state": "improving",
+      "score": 83,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        66.4,
+        71.9,
+        77.5,
+        84.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "priya-mehta",
+      "competencyId": "accessibility",
+      "state": "insufficient",
+      "score": null,
+      "confidence": 0.35,
+      "label": "LOW",
+      "trajectory": [
+        null,
+        null,
+        null,
+        62
+      ],
+      "gaps": [
+        "low_volume"
+      ],
+      "missing": [
+        "assessment",
+        "project"
+      ]
+    },
+    {
+      "employeeId": "priya-mehta",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 71,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        55.9,
+        60.7,
+        66.5,
+        71.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "priya-mehta",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 85,
+      "confidence": 0.94,
+      "label": "HIGH",
+      "trajectory": [
+        68.8,
+        74,
+        80,
+        86.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "priya-mehta",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 86,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        70,
+        74,
+        81.3,
+        87.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "priya-mehta",
+      "competencyId": "api_design",
+      "state": "improving",
+      "score": 66,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        51.7,
+        57.2,
+        61.8,
+        66.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "priya-mehta",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 78,
+      "confidence": 1,
+      "label": "HIGH",
+      "trajectory": [
+        60.9,
+        66.9,
+        73.1,
+        80
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "priya-mehta",
+      "competencyId": "data_storytelling",
+      "state": "stagnating",
+      "score": 68,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        67.5,
+        69.1,
+        67.5,
+        67.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "priya-mehta",
+      "competencyId": "mentoring",
+      "state": "improving",
+      "score": 88,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        70,
+        75,
+        82.5,
+        89.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "yash-verma",
+      "competencyId": "python",
+      "state": "improving",
+      "score": 85,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        70,
+        76.5,
+        80.8,
+        85.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "yash-verma",
+      "competencyId": "leadership",
+      "state": "stagnating",
+      "score": 43,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        42.5,
+        42.6,
+        41.8,
+        43.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "yash-verma",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 79,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        62.2,
+        67.8,
+        73.9,
+        81
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "yash-verma",
+      "competencyId": "system_design",
+      "state": "improving",
+      "score": 78,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        64.2,
+        70,
+        74.6,
+        78.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "yash-verma",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 84,
+      "confidence": 0.94,
+      "label": "HIGH",
+      "trajectory": [
+        67.5,
+        73.9,
+        78.8,
+        85
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "yash-verma",
+      "competencyId": "communication",
+      "state": "stagnating",
+      "score": 56,
+      "confidence": 0.92,
+      "label": "HIGH",
+      "trajectory": [
+        56.3,
+        57.4,
+        55,
+        56.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ananya-joshi",
+      "competencyId": "accessibility",
+      "state": "improving",
+      "score": 72,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        54.6,
+        60,
+        66.9,
+        73.2
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ananya-joshi",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 78,
+      "confidence": 0.92,
+      "label": "HIGH",
+      "trajectory": [
+        63.8,
+        68.1,
+        75,
+        78.5
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ananya-joshi",
+      "competencyId": "data_storytelling",
+      "state": "improving",
+      "score": 79,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        62.5,
+        67.6,
+        73.9,
+        80.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ananya-joshi",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 83,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        65,
+        71.9,
+        77.5,
+        83.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ananya-joshi",
+      "competencyId": "stakeholder",
+      "state": "improving",
+      "score": 86,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        67.5,
+        74.5,
+        80,
+        87.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ananya-joshi",
+      "competencyId": "problem_solving",
+      "state": "stagnating",
+      "score": 69,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        68.6,
+        68.5,
+        67.6,
+        69.5
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ananya-joshi",
+      "competencyId": "leadership",
+      "state": "stagnating",
+      "score": 60,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        59.2,
+        60.8,
+        58.3,
+        60
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kunal-shah",
+      "competencyId": "cloud_security",
+      "state": "improving",
+      "score": 71,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        53.2,
+        58.6,
+        62.7,
+        72.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kunal-shah",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 70,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        53.4,
+        58.9,
+        65.2,
+        71.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kunal-shah",
+      "competencyId": "system_design",
+      "state": "improving",
+      "score": 72,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        56.3,
+        61.4,
+        68.4,
+        73.2
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kunal-shah",
+      "competencyId": "python",
+      "state": "improving",
+      "score": 75,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        57.7,
+        64.5,
+        70.4,
+        76
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kunal-shah",
+      "competencyId": "teamwork",
+      "state": "stagnating",
+      "score": 68,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        67.5,
+        68.5,
+        66,
+        67.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kunal-shah",
+      "competencyId": "mentoring",
+      "state": "stagnating",
+      "score": 57,
+      "confidence": 0.92,
+      "label": "HIGH",
+      "trajectory": [
+        56.2,
+        57.9,
+        55,
+        57.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kunal-shah",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 83,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        64.2,
+        70,
+        79.2,
+        84.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "neha-joshi",
+      "competencyId": "stakeholder",
+      "state": "improving",
+      "score": 81,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        62.5,
+        70.9,
+        77.4,
+        82.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "neha-joshi",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 85,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        70,
+        75.3,
+        80.3,
+        86.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "neha-joshi",
+      "competencyId": "data_storytelling",
+      "state": "improving",
+      "score": 70,
+      "confidence": 0.72,
+      "label": "MEDIUM",
+      "trajectory": [
+        53.8,
+        60.7,
+        66.4,
+        71.9
+      ],
+      "gaps": [
+        "missing_source"
+      ],
+      "missing": [
+        "project"
+      ]
+    },
+    {
+      "employeeId": "neha-joshi",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 85,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        66.5,
+        72.7,
+        78.9,
+        86.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "neha-joshi",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 75,
+      "confidence": 0.92,
+      "label": "HIGH",
+      "trajectory": [
+        60,
+        63.5,
+        70,
+        76.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "neha-joshi",
+      "competencyId": "leadership",
+      "state": "stagnating",
+      "score": 69,
+      "confidence": 0.96,
+      "label": "HIGH",
+      "trajectory": [
+        67.5,
+        69,
+        65.9,
+        70
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ishaan-iyer",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 80,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        60,
+        66.9,
+        73.2,
+        82.2
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ishaan-iyer",
+      "competencyId": "python",
+      "state": "insufficient",
+      "score": null,
+      "confidence": 0.13,
+      "label": "LOW",
+      "trajectory": [
+        null,
+        64,
+        null,
+        null
+      ],
+      "gaps": [
+        "no_recent_evidence"
+      ],
+      "missing": [
+        "assessment",
+        "project"
+      ]
+    },
+    {
+      "employeeId": "ishaan-iyer",
+      "competencyId": "api_design",
+      "state": "improving",
+      "score": 76,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        60,
+        64.6,
+        71.5,
+        77.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ishaan-iyer",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 68,
+      "confidence": 0.92,
+      "label": "HIGH",
+      "trajectory": [
+        55,
+        57.4,
+        63.8,
+        68.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ishaan-iyer",
+      "competencyId": "communication",
+      "state": "stagnating",
+      "score": 74,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        73.7,
+        73.9,
+        71.6,
+        74.5
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "ishaan-iyer",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 72,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        58.3,
+        62.3,
+        68.6,
+        73.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "meera-nair",
+      "competencyId": "python",
+      "state": "improving",
+      "score": 66,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        52.7,
+        56.9,
+        61.8,
+        66.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "meera-nair",
+      "competencyId": "data_storytelling",
+      "state": "improving",
+      "score": 74,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        61.3,
+        65,
+        72.1,
+        75.2
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "meera-nair",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 77,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        60.5,
+        67.3,
+        74.1,
+        77.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "meera-nair",
+      "competencyId": "communication",
+      "state": "declining",
+      "score": 65,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        82.5,
+        77.6,
+        71.3,
+        63.8
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "meera-nair",
+      "competencyId": "technical",
+      "state": "declining",
+      "score": 67,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        82.5,
+        76.3,
+        70.8,
+        65.6
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "meera-nair",
+      "competencyId": "stakeholder",
+      "state": "improving",
+      "score": 77,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        58.8,
+        65.2,
+        71.2,
+        78.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "meera-nair",
+      "competencyId": "teamwork",
+      "state": "conflicting",
+      "score": 81,
+      "confidence": 0.52,
+      "label": "LOW–MEDIUM",
+      "trajectory": [
+        74.3,
+        78.7,
+        75.7,
+        83.7
+      ],
+      "gaps": [
+        "conflicting_sources"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "rohan-gupta",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 73,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        57.2,
+        62.8,
+        68.1,
+        75
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "rohan-gupta",
+      "competencyId": "leadership",
+      "state": "declining",
+      "score": 63,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        80,
+        73.9,
+        66.6,
+        61.8
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "rohan-gupta",
+      "competencyId": "system_design",
+      "state": "improving",
+      "score": 71,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        55.4,
+        61.4,
+        66.9,
+        72.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "rohan-gupta",
+      "competencyId": "api_design",
+      "state": "improving",
+      "score": 77,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        58.1,
+        64.6,
+        72.3,
+        79.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "rohan-gupta",
+      "competencyId": "mentoring",
+      "state": "improving",
+      "score": 81,
+      "confidence": 1,
+      "label": "HIGH",
+      "trajectory": [
+        67.5,
+        72.6,
+        77.6,
+        82.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "rohan-gupta",
+      "competencyId": "communication",
+      "state": "stagnating",
+      "score": 69,
+      "confidence": 0.91,
+      "label": "HIGH",
+      "trajectory": [
+        67.5,
+        69.7,
+        66.2,
+        69.5
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "rohan-gupta",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 79,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        67.5,
+        72.4,
+        77.3,
+        80.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "tanvi-rao",
+      "competencyId": "test_automation",
+      "state": "improving",
+      "score": 76,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        57.3,
+        64.4,
+        70,
+        77.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "tanvi-rao",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 84,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        67.4,
+        72.2,
+        79.1,
+        85.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "tanvi-rao",
+      "competencyId": "accessibility",
+      "state": "insufficient",
+      "score": null,
+      "confidence": 0.13,
+      "label": "LOW",
+      "trajectory": [
+        null,
+        71,
+        null,
+        null
+      ],
+      "gaps": [
+        "no_recent_evidence"
+      ],
+      "missing": [
+        "assessment",
+        "project"
+      ]
+    },
+    {
+      "employeeId": "tanvi-rao",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 76,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        60,
+        65,
+        72.6,
+        77.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "tanvi-rao",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 79,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        60,
+        68.2,
+        73.7,
+        79.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "tanvi-rao",
+      "competencyId": "problem_solving",
+      "state": "stagnating",
+      "score": 62,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        61.5,
+        61.3,
+        59.6,
+        62.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "siddharth-menon",
+      "competencyId": "system_design",
+      "state": "improving",
+      "score": 74,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        62.3,
+        66,
+        70.5,
+        75.5
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "siddharth-menon",
+      "competencyId": "cloud_security",
+      "state": "improving",
+      "score": 75,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        62.7,
+        66.9,
+        72.5,
+        76.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "siddharth-menon",
+      "competencyId": "stakeholder",
+      "state": "declining",
+      "score": 63,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        78.7,
+        72.4,
+        67.4,
+        61.4
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "siddharth-menon",
+      "competencyId": "leadership",
+      "state": "improving",
+      "score": 80,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        65,
+        70.2,
+        75.8,
+        80.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "siddharth-menon",
+      "competencyId": "mentoring",
+      "state": "declining",
+      "score": 62,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        80,
+        73.8,
+        66.2,
+        61.4
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "siddharth-menon",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 85,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        67.5,
+        74.5,
+        80.8,
+        85.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "pooja-chavan",
+      "competencyId": "stakeholder",
+      "state": "improving",
+      "score": 76,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        58.8,
+        65.5,
+        70.3,
+        77.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "pooja-chavan",
+      "competencyId": "communication",
+      "state": "stagnating",
+      "score": 58,
+      "confidence": 0.92,
+      "label": "HIGH",
+      "trajectory": [
+        56.2,
+        57.9,
+        56.2,
+        57.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "pooja-chavan",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 79,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        60.4,
+        67.3,
+        72.7,
+        80.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "pooja-chavan",
+      "competencyId": "teamwork",
+      "state": "stagnating",
+      "score": 71,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        70,
+        70,
+        69.7,
+        70.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "pooja-chavan",
+      "competencyId": "leadership",
+      "state": "conflicting",
+      "score": 62,
+      "confidence": 0.52,
+      "label": "LOW–MEDIUM",
+      "trajectory": [
+        56.9,
+        60.7,
+        57.9,
+        63.2
+      ],
+      "gaps": [
+        "conflicting_sources"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "pooja-chavan",
+      "competencyId": "data_storytelling",
+      "state": "improving",
+      "score": 88,
+      "confidence": 0.94,
+      "label": "HIGH",
+      "trajectory": [
+        67.5,
+        75,
+        81.3,
+        90
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "harsh-agarwal",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 71,
+      "confidence": 1,
+      "label": "HIGH",
+      "trajectory": [
+        54.2,
+        60,
+        66.2,
+        72.2
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "harsh-agarwal",
+      "competencyId": "api_design",
+      "state": "improving",
+      "score": 70,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        52.7,
+        59.5,
+        66.5,
+        71.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "harsh-agarwal",
+      "competencyId": "python",
+      "state": "declining",
+      "score": 58,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        74.6,
+        69.2,
+        62.2,
+        56.4
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "harsh-agarwal",
+      "competencyId": "system_design",
+      "state": "improving",
+      "score": 71,
+      "confidence": 0.72,
+      "label": "MEDIUM",
+      "trajectory": [
+        57.3,
+        62.7,
+        68.9,
+        73.5
+      ],
+      "gaps": [
+        "missing_source"
+      ],
+      "missing": [
+        "project"
+      ]
+    },
+    {
+      "employeeId": "harsh-agarwal",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 80,
+      "confidence": 0.92,
+      "label": "HIGH",
+      "trajectory": [
+        65,
+        69.1,
+        76.3,
+        80.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "harsh-agarwal",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 85,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        69,
+        75,
+        81.8,
+        86.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kavya-reddy",
+      "competencyId": "accessibility",
+      "state": "improving",
+      "score": 89,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        69.1,
+        76.4,
+        83.9,
+        90.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kavya-reddy",
+      "competencyId": "communication",
+      "state": "stagnating",
+      "score": 64,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        62.5,
+        64.7,
+        62.3,
+        63.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kavya-reddy",
+      "competencyId": "data_storytelling",
+      "state": "improving",
+      "score": 74,
+      "confidence": 0.94,
+      "label": "HIGH",
+      "trajectory": [
+        57.5,
+        63.3,
+        68.7,
+        75.2
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kavya-reddy",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 71,
+      "confidence": 1,
+      "label": "HIGH",
+      "trajectory": [
+        57.5,
+        62.6,
+        67.4,
+        72.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kavya-reddy",
+      "competencyId": "stakeholder",
+      "state": "improving",
+      "score": 79,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        62.5,
+        67.8,
+        74.9,
+        80
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "kavya-reddy",
+      "competencyId": "leadership",
+      "state": "insufficient",
+      "score": null,
+      "confidence": 0.13,
+      "label": "LOW",
+      "trajectory": [
+        null,
+        55,
+        null,
+        null
+      ],
+      "gaps": [
+        "no_recent_evidence"
+      ],
+      "missing": [
+        "manager",
+        "peer",
+        "project"
+      ]
+    },
+    {
+      "employeeId": "omkar-pawar",
+      "competencyId": "technical",
+      "state": "stagnating",
+      "score": 58,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        56.6,
+        57.5,
+        56.1,
+        58.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "omkar-pawar",
+      "competencyId": "cloud_security",
+      "state": "declining",
+      "score": 62,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        77.7,
+        71.9,
+        65.9,
+        60.4
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "omkar-pawar",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 81,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        67.5,
+        71.5,
+        77.4,
+        82.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "omkar-pawar",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 81,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        66.2,
+        70.9,
+        77.4,
+        82.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "omkar-pawar",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 77,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        57.3,
+        64.6,
+        70,
+        79.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "omkar-pawar",
+      "competencyId": "test_automation",
+      "state": "stagnating",
+      "score": 59,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        58.2,
+        58.9,
+        56.9,
+        59.6
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "nikita-bhosale",
+      "competencyId": "stakeholder",
+      "state": "improving",
+      "score": 77,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        60,
+        67.2,
+        72.5,
+        77.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "nikita-bhosale",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 76,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        60,
+        65.3,
+        72.4,
+        77.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "nikita-bhosale",
+      "competencyId": "data_storytelling",
+      "state": "conflicting",
+      "score": 74,
+      "confidence": 0.52,
+      "label": "LOW–MEDIUM",
+      "trajectory": [
+        72.1,
+        76,
+        72.5,
+        77.2
+      ],
+      "gaps": [
+        "conflicting_sources"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "nikita-bhosale",
+      "competencyId": "leadership",
+      "state": "improving",
+      "score": 71,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        53.4,
+        57.6,
+        64.3,
+        72.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "nikita-bhosale",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 81,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        66.5,
+        70.9,
+        75,
+        82.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "nikita-bhosale",
+      "competencyId": "teamwork",
+      "state": "declining",
+      "score": 64,
+      "confidence": 0.97,
+      "label": "HIGH",
+      "trajectory": [
+        81.2,
+        76.9,
+        67.6,
+        62.6
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "farhan-shaikh",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 79,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        66.7,
+        71.3,
+        75.3,
+        80.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "farhan-shaikh",
+      "competencyId": "api_design",
+      "state": "declining",
+      "score": 61,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        77.7,
+        70.9,
+        66.4,
+        60
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "farhan-shaikh",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 78,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        60,
+        67.4,
+        73.7,
+        79.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "farhan-shaikh",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 73,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        58.8,
+        62.4,
+        68.7,
+        73.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "farhan-shaikh",
+      "competencyId": "python",
+      "state": "insufficient",
+      "score": null,
+      "confidence": 0.13,
+      "label": "LOW",
+      "trajectory": [
+        null,
+        64,
+        null,
+        null
+      ],
+      "gaps": [
+        "no_recent_evidence"
+      ],
+      "missing": [
+        "assessment",
+        "project"
+      ]
+    },
+    {
+      "employeeId": "farhan-shaikh",
+      "competencyId": "accessibility",
+      "state": "improving",
+      "score": 81,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        62.7,
+        69.1,
+        75.4,
+        82.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "shreya-banerjee",
+      "competencyId": "python",
+      "state": "improving",
+      "score": 74,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        61.9,
+        65.4,
+        70.3,
+        75.5
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "shreya-banerjee",
+      "competencyId": "data_storytelling",
+      "state": "improving",
+      "score": 70,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        52.5,
+        59.8,
+        65.2,
+        71.2
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "shreya-banerjee",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 71,
+      "confidence": 0.94,
+      "label": "HIGH",
+      "trajectory": [
+        55,
+        61.9,
+        67.5,
+        72.4
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "shreya-banerjee",
+      "competencyId": "problem_solving",
+      "state": "improving",
+      "score": 67,
+      "confidence": 0.72,
+      "label": "MEDIUM",
+      "trajectory": [
+        52.3,
+        59.6,
+        63,
+        69.4
+      ],
+      "gaps": [
+        "missing_source"
+      ],
+      "missing": [
+        "project"
+      ]
+    },
+    {
+      "employeeId": "shreya-banerjee",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 83,
+      "confidence": 0.92,
+      "label": "HIGH",
+      "trajectory": [
+        68.7,
+        74.7,
+        77.5,
+        83.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "shreya-banerjee",
+      "competencyId": "stakeholder",
+      "state": "stagnating",
+      "score": 59,
+      "confidence": 0.92,
+      "label": "HIGH",
+      "trajectory": [
+        57.5,
+        59.8,
+        57.5,
+        59.5
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "arjun-pillai",
+      "competencyId": "system_design",
+      "state": "improving",
+      "score": 81,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        62.7,
+        69.6,
+        76.1,
+        83.2
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "arjun-pillai",
+      "competencyId": "leadership",
+      "state": "improving",
+      "score": 76,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        60,
+        66.6,
+        71.8,
+        77.8
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "arjun-pillai",
+      "competencyId": "mentoring",
+      "state": "declining",
+      "score": 62,
+      "confidence": 0.92,
+      "label": "HIGH",
+      "trajectory": [
+        80,
+        72.6,
+        65,
+        61.4
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "arjun-pillai",
+      "competencyId": "technical",
+      "state": "improving",
+      "score": 82,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        62.2,
+        68.9,
+        76.1,
+        83.3
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "arjun-pillai",
+      "competencyId": "api_design",
+      "state": "improving",
+      "score": 74,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        57.7,
+        65,
+        69.7,
+        75
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "arjun-pillai",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 89,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        70,
+        76.1,
+        82.7,
+        90.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "arjun-pillai",
+      "competencyId": "cloud_security",
+      "state": "insufficient",
+      "score": null,
+      "confidence": 0.13,
+      "label": "LOW",
+      "trajectory": [
+        null,
+        60,
+        null,
+        null
+      ],
+      "gaps": [
+        "no_recent_evidence"
+      ],
+      "missing": [
+        "assessment",
+        "project"
+      ]
+    },
+    {
+      "employeeId": "divya-kapoor",
+      "competencyId": "leadership",
+      "state": "improving",
+      "score": 76,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        61.6,
+        67.4,
+        70.8,
+        76.7
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "divya-kapoor",
+      "competencyId": "communication",
+      "state": "improving",
+      "score": 76,
+      "confidence": 0.99,
+      "label": "HIGH",
+      "trajectory": [
+        57.5,
+        63.8,
+        71.1,
+        77.1
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "divya-kapoor",
+      "competencyId": "stakeholder",
+      "state": "conflicting",
+      "score": 76,
+      "confidence": 0.52,
+      "label": "LOW–MEDIUM",
+      "trajectory": [
+        72.1,
+        78,
+        74.1,
+        79.2
+      ],
+      "gaps": [
+        "conflicting_sources"
+      ],
+      "missing": []
+    },
+    {
+      "employeeId": "divya-kapoor",
+      "competencyId": "teamwork",
+      "state": "improving",
+      "score": 79,
+      "confidence": 0.93,
+      "label": "HIGH",
+      "trajectory": [
+        65,
+        71.1,
+        76.2,
+        80.5
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "divya-kapoor",
+      "competencyId": "problem_solving",
+      "state": "stagnating",
+      "score": 66,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        65,
+        66.4,
+        65.7,
+        65.9
+      ],
+      "gaps": [],
+      "missing": []
+    },
+    {
+      "employeeId": "divya-kapoor",
+      "competencyId": "mentoring",
+      "state": "improving",
+      "score": 81,
+      "confidence": 0.72,
+      "label": "MEDIUM",
+      "trajectory": [
+        62.5,
+        68.8,
+        76.1,
+        83.6
+      ],
+      "gaps": [
+        "missing_source"
+      ],
+      "missing": [
+        "manager"
+      ]
+    },
+    {
+      "employeeId": "divya-kapoor",
+      "competencyId": "data_storytelling",
+      "state": "declining",
+      "score": 64,
+      "confidence": 0.98,
+      "label": "HIGH",
+      "trajectory": [
+        82.5,
+        76.9,
+        69.9,
+        63.1
+      ],
+      "gaps": [
+        "declining_with_high_confidence"
+      ],
+      "missing": []
+    }
+  ]
+}

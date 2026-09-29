@@ -1,0 +1,447 @@
+[
+  {
+    "id": "aarav-sharma",
+    "name": "Aarav Sharma",
+    "role": "Senior Backend Engineer",
+    "team": "Platform",
+    "location": "Bengaluru",
+    "experience": "6 yrs",
+    "manager": "Vikram Deshpande",
+    "competencies": [
+      "api_design",
+      "system_design",
+      "cloud_security",
+      "mentoring",
+      "python",
+      "technical",
+      "communication",
+      "teamwork"
+    ],
+    "email": "aarav.sharma@vidyut.in"
+  },
+  {
+    "id": "riya-patil",
+    "name": "Riya Patil",
+    "role": "Product Manager",
+    "team": "Growth",
+    "location": "Pune",
+    "experience": "7 yrs",
+    "manager": "Sunita Rao",
+    "competencies": [
+      "leadership",
+      "python",
+      "stakeholder",
+      "communication",
+      "data_storytelling",
+      "teamwork",
+      "problem_solving"
+    ],
+    "email": "riya.patil@vidyut.in"
+  },
+  {
+    "id": "aditya-kulkarni",
+    "name": "Aditya Kulkarni",
+    "role": "Backend Engineer",
+    "team": "Platform",
+    "location": "Bengaluru",
+    "experience": "3 yrs",
+    "manager": "Vikram Deshpande",
+    "competencies": [
+      "system_design",
+      "api_design",
+      "technical",
+      "python",
+      "problem_solving",
+      "teamwork"
+    ],
+    "email": "aditya.kulkarni@vidyut.in"
+  },
+  {
+    "id": "sneha-deshmukh",
+    "name": "Sneha Deshmukh",
+    "role": "Product Analyst",
+    "team": "Insights",
+    "location": "Pune",
+    "experience": "4 yrs",
+    "manager": "Sunita Rao",
+    "competencies": [
+      "technical",
+      "communication",
+      "leadership",
+      "problem_solving",
+      "teamwork",
+      "data_storytelling",
+      "stakeholder"
+    ],
+    "email": "sneha.deshmukh@vidyut.in",
+    "hero": true
+  },
+  {
+    "id": "rahul-jadhav",
+    "name": "Rahul Jadhav",
+    "role": "QA Engineer",
+    "team": "Quality",
+    "location": "Pune",
+    "experience": "5 yrs",
+    "manager": "Anjali Gokhale",
+    "competencies": [
+      "test_automation",
+      "technical",
+      "communication",
+      "teamwork",
+      "problem_solving",
+      "accessibility"
+    ],
+    "email": "rahul.jadhav@vidyut.in"
+  },
+  {
+    "id": "priya-mehta",
+    "name": "Priya Mehta",
+    "role": "UI Engineer",
+    "team": "Experience",
+    "location": "Hyderabad",
+    "experience": "4 yrs",
+    "manager": "Farah Qureshi",
+    "competencies": [
+      "accessibility",
+      "technical",
+      "communication",
+      "teamwork",
+      "api_design",
+      "problem_solving",
+      "data_storytelling",
+      "mentoring"
+    ],
+    "email": "priya.mehta@vidyut.in"
+  },
+  {
+    "id": "yash-verma",
+    "name": "Yash Verma",
+    "role": "Data Engineer",
+    "team": "Insights",
+    "location": "Pune",
+    "experience": "3 yrs",
+    "manager": "Sunita Rao",
+    "competencies": [
+      "python",
+      "leadership",
+      "technical",
+      "system_design",
+      "teamwork",
+      "communication"
+    ],
+    "email": "yash.verma@vidyut.in"
+  },
+  {
+    "id": "ananya-joshi",
+    "name": "Ananya Joshi",
+    "role": "UX Designer",
+    "team": "Experience",
+    "location": "Pune",
+    "experience": "5 yrs",
+    "manager": "Farah Qureshi",
+    "competencies": [
+      "accessibility",
+      "communication",
+      "data_storytelling",
+      "teamwork",
+      "stakeholder",
+      "problem_solving",
+      "leadership"
+    ],
+    "email": "ananya.joshi@vidyut.in"
+  },
+  {
+    "id": "kunal-shah",
+    "name": "Kunal Shah",
+    "role": "DevOps Engineer",
+    "team": "Platform",
+    "location": "Hyderabad",
+    "experience": "6 yrs",
+    "manager": "Vikram Deshpande",
+    "competencies": [
+      "cloud_security",
+      "technical",
+      "system_design",
+      "python",
+      "teamwork",
+      "mentoring",
+      "problem_solving"
+    ],
+    "email": "kunal.shah@vidyut.in"
+  },
+  {
+    "id": "neha-joshi",
+    "name": "Neha Joshi",
+    "role": "Business Analyst",
+    "team": "Growth",
+    "location": "Pune",
+    "experience": "4 yrs",
+    "manager": "Sunita Rao",
+    "competencies": [
+      "stakeholder",
+      "communication",
+      "data_storytelling",
+      "problem_solving",
+      "teamwork",
+      "leadership"
+    ],
+    "email": "neha.joshi@vidyut.in"
+  },
+  {
+    "id": "ishaan-iyer",
+    "name": "Ishaan Iyer",
+    "role": "Software Engineer I",
+    "team": "Platform",
+    "location": "Bengaluru",
+    "experience": "1 yr",
+    "manager": "Vikram Deshpande",
+    "competencies": [
+      "technical",
+      "python",
+      "api_design",
+      "teamwork",
+      "communication",
+      "problem_solving"
+    ],
+    "email": "ishaan.iyer@vidyut.in"
+  },
+  {
+    "id": "meera-nair",
+    "name": "Meera Nair",
+    "role": "Data Scientist",
+    "team": "Insights",
+    "location": "Bengaluru",
+    "experience": "5 yrs",
+    "manager": "Sunita Rao",
+    "competencies": [
+      "python",
+      "data_storytelling",
+      "problem_solving",
+      "communication",
+      "technical",
+      "stakeholder",
+      "teamwork"
+    ],
+    "email": "meera.nair@vidyut.in"
+  },
+  {
+    "id": "rohan-gupta",
+    "name": "Rohan Gupta",
+    "role": "Senior Software Engineer",
+    "team": "Platform",
+    "location": "Pune",
+    "experience": "8 yrs",
+    "manager": "Vikram Deshpande",
+    "competencies": [
+      "technical",
+      "leadership",
+      "system_design",
+      "api_design",
+      "mentoring",
+      "communication",
+      "teamwork"
+    ],
+    "email": "rohan.gupta@vidyut.in"
+  },
+  {
+    "id": "tanvi-rao",
+    "name": "Tanvi Rao",
+    "role": "QA Engineer",
+    "team": "Quality",
+    "location": "Hyderabad",
+    "experience": "3 yrs",
+    "manager": "Anjali Gokhale",
+    "competencies": [
+      "test_automation",
+      "technical",
+      "accessibility",
+      "teamwork",
+      "communication",
+      "problem_solving"
+    ],
+    "email": "tanvi.rao@vidyut.in"
+  },
+  {
+    "id": "siddharth-menon",
+    "name": "Siddharth Menon",
+    "role": "Solutions Architect",
+    "team": "Platform",
+    "location": "Bengaluru",
+    "experience": "12 yrs",
+    "manager": "Vikram Deshpande",
+    "competencies": [
+      "system_design",
+      "cloud_security",
+      "stakeholder",
+      "leadership",
+      "mentoring",
+      "communication"
+    ],
+    "email": "siddharth.menon@vidyut.in"
+  },
+  {
+    "id": "pooja-chavan",
+    "name": "Pooja Chavan",
+    "role": "Customer Success Manager",
+    "team": "Growth",
+    "location": "Pune",
+    "experience": "6 yrs",
+    "manager": "Sunita Rao",
+    "competencies": [
+      "stakeholder",
+      "communication",
+      "problem_solving",
+      "teamwork",
+      "leadership",
+      "data_storytelling"
+    ],
+    "email": "pooja.chavan@vidyut.in"
+  },
+  {
+    "id": "harsh-agarwal",
+    "name": "Harsh Agarwal",
+    "role": "Backend Engineer",
+    "team": "Platform",
+    "location": "Hyderabad",
+    "experience": "3 yrs",
+    "manager": "Vikram Deshpande",
+    "competencies": [
+      "technical",
+      "api_design",
+      "python",
+      "system_design",
+      "teamwork",
+      "problem_solving"
+    ],
+    "email": "harsh.agarwal@vidyut.in"
+  },
+  {
+    "id": "kavya-reddy",
+    "name": "Kavya Reddy",
+    "role": "Product Designer",
+    "team": "Experience",
+    "location": "Hyderabad",
+    "experience": "4 yrs",
+    "manager": "Farah Qureshi",
+    "competencies": [
+      "accessibility",
+      "communication",
+      "data_storytelling",
+      "teamwork",
+      "stakeholder",
+      "leadership"
+    ],
+    "email": "kavya.reddy@vidyut.in"
+  },
+  {
+    "id": "omkar-pawar",
+    "name": "Omkar Pawar",
+    "role": "IT Support Engineer",
+    "team": "Quality",
+    "location": "Pune",
+    "experience": "5 yrs",
+    "manager": "Anjali Gokhale",
+    "competencies": [
+      "technical",
+      "cloud_security",
+      "communication",
+      "teamwork",
+      "problem_solving",
+      "test_automation"
+    ],
+    "email": "omkar.pawar@vidyut.in"
+  },
+  {
+    "id": "nikita-bhosale",
+    "name": "Nikita Bhosale",
+    "role": "Associate Product Manager",
+    "team": "Growth",
+    "location": "Pune",
+    "experience": "2 yrs",
+    "manager": "Sunita Rao",
+    "competencies": [
+      "stakeholder",
+      "communication",
+      "data_storytelling",
+      "leadership",
+      "problem_solving",
+      "teamwork"
+    ],
+    "email": "nikita.bhosale@vidyut.in"
+  },
+  {
+    "id": "farhan-shaikh",
+    "name": "Farhan Shaikh",
+    "role": "Mobile Engineer",
+    "team": "Experience",
+    "location": "Mumbai",
+    "experience": "4 yrs",
+    "manager": "Farah Qureshi",
+    "competencies": [
+      "technical",
+      "api_design",
+      "teamwork",
+      "communication",
+      "python",
+      "accessibility"
+    ],
+    "email": "farhan.shaikh@vidyut.in"
+  },
+  {
+    "id": "shreya-banerjee",
+    "name": "Shreya Banerjee",
+    "role": "Data Analyst",
+    "team": "Insights",
+    "location": "Bengaluru",
+    "experience": "2 yrs",
+    "manager": "Sunita Rao",
+    "competencies": [
+      "python",
+      "data_storytelling",
+      "communication",
+      "problem_solving",
+      "teamwork",
+      "stakeholder"
+    ],
+    "email": "shreya.banerjee@vidyut.in"
+  },
+  {
+    "id": "arjun-pillai",
+    "name": "Arjun Pillai",
+    "role": "Staff Engineer",
+    "team": "Platform",
+    "location": "Bengaluru",
+    "experience": "13 yrs",
+    "manager": "Vikram Deshpande",
+    "competencies": [
+      "system_design",
+      "leadership",
+      "mentoring",
+      "technical",
+      "api_design",
+      "communication",
+      "cloud_security"
+    ],
+    "email": "arjun.pillai@vidyut.in"
+  },
+  {
+    "id": "divya-kapoor",
+    "name": "Divya Kapoor",
+    "role": "Scrum Master",
+    "team": "Growth",
+    "location": "Mumbai",
+    "experience": "7 yrs",
+    "manager": "Sunita Rao",
+    "competencies": [
+      "leadership",
+      "communication",
+      "stakeholder",
+      "teamwork",
+      "problem_solving",
+      "mentoring",
+      "data_storytelling"
+    ],
+    "email": "divya.kapoor@vidyut.in"
+  }
+]
