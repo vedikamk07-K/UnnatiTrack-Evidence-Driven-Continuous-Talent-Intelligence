@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root { color-scheme: light; }
+  html { -webkit-font-smoothing: antialiased; }
+  body { @apply bg-parchment text-ink font-sans text-[14px]; }
+  h1, h2, h3 { @apply font-head uppercase tracking-[0.01em]; }
+  ::selection { background: #B8460F; color: #FFF8F3; }
+  :focus-visible { outline: 3px solid #B8460F; outline-offset: 2px; }
+}
+
+@layer components {
+  .panel { @apply bg-panel border-2 border-ink shadow-hard; }
+  .panel-flat { @apply bg-panel border-2 border-ink; }
+  .well { @apply bg-sand border-2 border-ink; }
+  .label { @apply font-mono text-[11px] uppercase tracking-[0.08em] text-olive; }
+  .h-panel { @apply font-head text-[19px] font-bold uppercase leading-none text-ink; }
+  .btn { @apply inline-flex items-center justify-center gap-2 border-2 border-ink px-4 h-10 text-[14px] font-semibold transition-transform duration-75 select-none disabled:opacity-50 disabled:cursor-not-allowed; }
+  .btn:not(:disabled):active { transform: translate(2px, 2px); box-shadow: none; }
+  .btn-primary { @apply btn bg-rust text-panel shadow-hard-sm hover:bg-rust-dark; }
+  .btn-secondary { @apply btn bg-panel text-ink shadow-hard-sm hover:bg-cream; }
+  .btn-ghost { @apply inline-flex items-center gap-1.5 font-semibold text-rust hover:text-rust-dark; }
+  .btn-sm { @apply h-8 px-3 text-[13px]; }
+  .input { @apply w-full h-11 border-2 border-ink bg-cream px-3 text-[14px] text-ink placeholder:text-ink-50 outline-none focus:bg-panel focus:shadow-hard-sm; }
+  .tab { @apply font-mono text-[12px] uppercase tracking-[0.08em] pb-2 border-b-[3px] border-transparent text-ink-70 hover:text-ink; }
+  .tab-active { @apply text-rust border-rust; }
+  .grid-paper { background-color: #FFFBF4; background-image: linear-gradient(#EFE3C9 1px, transparent 1px), linear-gradient(90deg, #EFE3C9 1px, transparent 1px); background-size: 20px 20px; }
+  .num { font-variant-numeric: tabular-nums; }
+  .hatch { background-image: repeating-linear-gradient(135deg, #3452D8 0 2px, transparent 2px 7px); }
+}
+
+.recharts-cartesian-axis-tick-value { font-family: 'Space Mono', monospace; }
+.recharts-wrapper:focus, .recharts-surface:focus { outline: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
